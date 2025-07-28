@@ -45,4 +45,4 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful c
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-For support or questions, open an issue in the [issue tracker](https://github.com/md5sha1/CosmicGATE-DePIN/issues).
+For support or questions, open an issue in the [issue tracker](https://github.com/rajnishseasia/CosmicGATE-DePIN/issues).
