@@ -3,7 +3,7 @@
 CosmicGATE-DePIN is the server component for the CosmicGATE.ai ecosystem, designed to support Decentralized Physical Infrastructure Networks (DePIN). It handles backend logic for decentralized services and integrates with the broader CosmicGATE platform.
 
 ## Overview
-This repository contains the DePIN server, built with Node.js, to manage decentralized infrastructure tasks, such as data processing and communication with other CosmicGATE components. It is designed to be scalable and secure.
+This repository contains the DePIN server, built with Go, to manage decentralized infrastructure tasks, such as data processing and communication with other CosmicGATE components. It is designed to be scalable and secure.
 
 ## Getting Started
 ### Prerequisites
